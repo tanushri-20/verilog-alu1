@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements an 8-bit Arithmetic Logic Unit (ALU) in Verilog HDL.
+This project implements an 8-bit Arithmetic Logic Unit (ALU) in Verilog.
 
 The ALU performs arithmetic, logical, shift, comparison, increment/decrement, and modulus operations. It also generates important status flags used in processor design such as Zero, Negative, Carry, and Overflow flags.
 
