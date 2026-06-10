@@ -49,4 +49,4 @@ The ALU supports arithmetic, logical, shift, and comparison operations.
 
 ## Author
 
-Tanushri Ravi
+Tanushri Ravi  
