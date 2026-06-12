@@ -1,3 +1,4 @@
+
 # 8-Bit Parameterized ALU in Verilog
 
 ## Overview
@@ -158,7 +159,7 @@ and analyzed in GTKWave.
 
 ## Tools Used
 
-- Verilog HDL
+- Verilog 
 - Icarus Verilog
 - GTKWave
 - Visual Studio Code
