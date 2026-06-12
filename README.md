@@ -173,7 +173,7 @@ and analyzed in GTKWave.
 - Barrel shifter
 - Rotate operations
 - Saturation arithmetic
-- SystemVerilog testbench
+- Verilog testbench
 - UVM-based verification
 - Integration into a simple CPU datapath
 
